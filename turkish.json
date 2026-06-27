@@ -56,7 +56,7 @@
     "subfolder": "haber"
   },
   {
-    "type": "channel",
+    "type": "video",
     "name": "Aksiyon Filmleri",
     "slug": "aksiyon-filmleri",
     "url": "https://youtu.be/UC0LzwfdVoZSQDtauDjJS8_A",
@@ -87,7 +87,7 @@
     "type": "channel",
     "name": "Arzu Film",
     "slug": "arzu-film",
-    "id": "UCUALYmnkEmx8vlxIbpr2gmw",
+    "url": "https://www.youtube.com/@arzufilm1964",
     "subfolder": "film"
   },
   {
