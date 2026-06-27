@@ -3,21 +3,21 @@
     "type": "channel",
     "name": "24 TV",
     "slug": "24tv",
-    "id": "UCN7VYCsI4Lx1-J4_BtjoWUA",
+    "url": "https://www.youtube.com/@YirmidortTV/live",
     "subfolder": "haber"
   },
   {
     "type": "channel",
     "name": "A Haber",
     "slug": "ahaber",
-    "id": "UCKQhfw-lzz0uKnE1fY1PsAA",
+    "url": "https://www.youtube.com/@Ahaber/live",
     "subfolder": "haber"
   },
   {
     "type": "channel",
     "name": "A Para",
     "slug": "apara",
-    "id": "UCzrGg6iyRDuUSnO0cQ5oLcA",
+    "url": "https://www.youtube.com/@Apara/live",
     "subfolder": "haber"
   },
   {
