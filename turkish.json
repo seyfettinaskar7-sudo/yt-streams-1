@@ -24,63 +24,63 @@
     "type": "channel",
     "name": "A Spor",
     "slug": "aspor",
-    "id": "UCJElRTCNEmLemgirqvsW63Q",
+    "url": "https://www.youtube.com/@aspor/live",
     "subfolder": "spor"
   },
   {
     "type": "channel",
     "name": "ABB TV",
     "slug": "abb-tv",
-    "id": "UCHPDorZxpe9c6WDnXKHCjYA",
+    "url": "https://www.youtube.com/ankarabbld/live",
     "subfolder": "yerel"
   },
   {
     "type": "channel",
     "name": "Adanalı",
     "slug": "adanali",
-    "id": "UCRP2h7AKS4nnUho0pyBCHgw",
+    "url": "https://www.youtube.com/@Adanali/live",
     "subfolder": "dizi"
   },
   {
     "type": "channel",
     "name": "Akıllı Arabalar",
     "slug": "akilli-arabalar",
-    "id": "UCdNmxu3-x1Q3FSA11laRn6A",
+    "url": "https://www.youtube.com/@AkilliArabalarTV/live",
     "subfolder": "cocuk"
   },
   {
     "type": "channel",
     "name": "Akit TV",
     "slug": "akit-tv",
-    "id": "UCbaLyHJp6S9Lsj6oT9aJsQw",
+    "url": "https://www.youtube.com/@akittv/live",
     "subfolder": "haber"
   },
   {
     "type": "channel",
     "name": "Aksiyon Filmleri",
     "slug": "aksiyon-filmleri",
-    "id": "UC0LzwfdVoZSQDtauDjJS8_A",
+    "url": "https://youtu.be/UC0LzwfdVoZSQDtauDjJS8_A",
     "subfolder": "film"
   },
   {
     "type": "channel",
     "name": "Alemin Kralı",
     "slug": "alemin-krali",
-    "id": "UC7X6WuvzdVTFtAAAly9ldcw",
+    "url": "https://www.youtube.com/@aleminkirali/live",
     "subfolder": "dizi"
   },
   {
     "type": "channel",
     "name": "Arıza",
     "slug": "ariza",
-    "id": "UCxJhBb04eELBRYgFgAzJQBg",
+    "url": "https://www.youtube.com/@ariza/live",
     "subfolder": "dizi"
   },
   {
     "type": "channel",
     "name": "Arkadaşım Hoşgeldin",
     "slug": "arkadasim-hosgeldin",
-    "id": "UCOYerJedhQqSyhXkev8QRFA",
+    "url": "https://www.youtube.com/@ArkadasmHosgeldinn/live",
     "subfolder": "dizi"
   },
   {
